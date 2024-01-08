@@ -1,18 +1,20 @@
-body {
+body header {
  padding: ;  
  border-radius: 16px;
 margin : 50px 140px 50px 140px ;
 background-size:contain ;
 background-image: url('images/Banner\ Image.png');
 background-repeat: no-repeat;
-background-position: center;
+background-position: bottom ;
+width: 1320px;
+height: 500px;
 }
 .header .banner .banner-taxt  { 
     color: #fff;
     text-align: center;
     font-family: Merriweather;
-    font-size: 25px;
-    font-weight: 300;
+    font-size: 40px;
+    font-weight: 200;
     }
 .header .banner .banner-title {
     color: #fff;
@@ -20,3 +22,31 @@ background-position: center;
     font-family: Merriweather;
     font-size: 40px;
     font-weight: 300; }
+
+.main .off .off-taxt {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    line-height: normal;
+} 
+main .off .title-taxt{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    }
+main .off .title{
+    color: #070211;
+     text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+     }
+     .main .Newyear .photo{ 
+        text-align: center      ;
+    
+        
+ }

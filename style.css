@@ -1,0 +1,22 @@
+body {
+ padding: ;  
+ border-radius: 16px;
+margin : 50px 140px 50px 140px ;
+background-size:contain ;
+background-image: url('images/Banner\ Image.png');
+background-repeat: no-repeat;
+background-position: center;
+}
+.header .banner .banner-taxt  { 
+    color: #fff;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 25px;
+    font-weight: 300;
+    }
+.header .banner .banner-title {
+    color: #fff;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 40px;
+    font-weight: 300; }
